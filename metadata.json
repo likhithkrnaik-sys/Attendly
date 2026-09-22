@@ -1,0 +1,7 @@
+{
+  "name": "Attendly",
+  "description": "Smart student academic OS with attendance tracking, bunk calculations, timetable, exams, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
